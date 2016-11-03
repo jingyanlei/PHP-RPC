@@ -1,0 +1,7 @@
+{
+    "require": {
+        "codegun/phprpc": "^3.0",
+        "hprose/hprose": "^2.0",
+        "firephp/firephp-core": "^0.4.0"
+    }
+}
